@@ -1,1 +1,2 @@
-# skin-cancer-prediction-model
+# Skin Cancer Prediction Model
+### Prepared by: Mohammd Ali
